@@ -1,6 +1,6 @@
 {
   "version": "2.0",
-  "generated": "2026-03-15T00:34:23.112Z",
+  "generated": "2026-03-22T16:33:44.465Z",
   "modules": {
     "@mlld/ai-cli": {
       "name": "ai-cli",
@@ -196,24 +196,24 @@
       "name": "claude",
       "author": "mlld",
       "about": "Claude model primitives for prose execution and direct LLM invocation",
-      "version": "3.0.0",
+      "version": "3.1.0",
       "needs": [],
       "license": "CC0",
-      "mlldVersion": ">=2.1.0",
+      "mlldVersion": ">=2.0.5",
       "source": {
         "type": "directory",
-        "baseUrl": "https://raw.githubusercontent.com/mlld-lang/modules/1173d72ccc030c9baf9592329ffe7f5c44501698/claude",
+        "baseUrl": "https://raw.githubusercontent.com/mlld-lang/modules/53cfeb9acd82d1aad2c16e869a4a444c2fc1d23f/claude",
         "files": [
           "index.mld",
           "module.yml",
           "README.md"
         ],
         "entryPoint": "index.mld",
-        "contentHash": "b523cfb7f53f86edb70d5b233e8df198cb83eab52f8bc43d24533e8cfe0d7ecc",
+        "contentHash": "f11d4d942b55439970316fb14df1c6c686df69fd3352a2f1b0cf48a43bb0bb41",
         "repository": {
           "type": "git",
           "url": "https://github.com/mlld-lang/modules",
-          "commit": "1173d72ccc030c9baf9592329ffe7f5c44501698",
+          "commit": "53cfeb9acd82d1aad2c16e869a4a444c2fc1d23f",
           "path": "claude"
         }
       },
@@ -221,16 +221,17 @@
       "keywords": [],
       "repo": "https://github.com/mlld-lang/modules",
       "bugs": "https://github.com/mlld-lang/modules/issues",
-      "publishedAt": "2026-03-11T23:18:59.207Z",
+      "publishedAt": "2026-03-22T16:31:36.822Z",
       "publishedBy": 110551,
       "availableVersions": [
+        "3.1.0",
         "3.0.0",
         "2.1.0",
         "2.0.0"
       ],
       "tags": {
-        "latest": "3.0.0",
-        "stable": "3.0.0"
+        "latest": "3.1.0",
+        "stable": "3.1.0"
       },
       "owners": [
         "mlld"
