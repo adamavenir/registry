@@ -1,0 +1,29 @@
+{
+  "version": "3.2.2",
+  "needs": [],
+  "license": "CC0",
+  "mlldVersion": ">=2.0.5",
+  "source": {
+    "type": "directory",
+    "baseUrl": "https://raw.githubusercontent.com/mlld-lang/modules/b25dce3509eaa59d1ffee95d4bfb80dc481fcb09/claude",
+    "files": [
+      "index.mld",
+      "module.yml",
+      "README.md"
+    ],
+    "entryPoint": "index.mld",
+    "contentHash": "a4a22e7033d7350b5922c08108f01e0b9dd37f25c892a24e6b98ec82a17b7273",
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/mlld-lang/modules",
+      "commit": "b25dce3509eaa59d1ffee95d4bfb80dc481fcb09",
+      "path": "claude"
+    }
+  },
+  "dependencies": {},
+  "keywords": [],
+  "repo": "https://github.com/mlld-lang/modules",
+  "bugs": "https://github.com/mlld-lang/modules/issues",
+  "publishedAt": "2026-03-31T10:41:39.620Z",
+  "publishedBy": 110551
+}
