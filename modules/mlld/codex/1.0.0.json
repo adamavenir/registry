@@ -1,0 +1,29 @@
+{
+  "version": "1.0.0",
+  "needs": [],
+  "license": "CC0",
+  "mlldVersion": ">=2.0.5",
+  "source": {
+    "type": "directory",
+    "baseUrl": "https://raw.githubusercontent.com/mlld-lang/modules/4f0df450a9559f7b74716eef0da5f057fe0c0ae0/codex",
+    "files": [
+      "index.mld",
+      "module.yml",
+      "README.md"
+    ],
+    "entryPoint": "index.mld",
+    "contentHash": "d13f87eb25bf4bac6c40e170c93d1ed1b728a63fc4506c65c47a6eef87cccb71",
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/mlld-lang/modules",
+      "commit": "4f0df450a9559f7b74716eef0da5f057fe0c0ae0",
+      "path": "codex"
+    }
+  },
+  "dependencies": {},
+  "keywords": [],
+  "repo": "https://github.com/mlld-lang/modules",
+  "bugs": "https://github.com/mlld-lang/modules/issues",
+  "publishedAt": "2026-04-11T04:06:02.249Z",
+  "publishedBy": 110551
+}
