@@ -1,0 +1,12 @@
+{
+  "name": "codex",
+  "author": "mlld",
+  "about": "Codex CLI invocation with sandboxing, streaming, and web search",
+  "owners": [
+    "mlld"
+  ],
+  "maintainers": [],
+  "created": "2026-04-11T04:06:02.249Z",
+  "createdBy": 110551,
+  "firstPublishPR": null
+}
