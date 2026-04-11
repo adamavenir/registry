@@ -1,0 +1,12 @@
+{
+  "name": "opencode",
+  "author": "mlld",
+  "about": "Opencode CLI invocation with session resume, streaming, and MCP tool bridging",
+  "owners": [
+    "mlld"
+  ],
+  "maintainers": [],
+  "created": "2026-04-11T04:18:06.811Z",
+  "createdBy": 110551,
+  "firstPublishPR": null
+}
