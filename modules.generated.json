@@ -1,6 +1,6 @@
 {
   "version": "2.0",
-  "generated": "2026-04-05T17:50:30.918Z",
+  "generated": "2026-04-11T04:18:28.331Z",
   "modules": {
     "@mlld/ai-cli": {
       "name": "ai-cli",
@@ -294,6 +294,49 @@
       "tags": {
         "latest": "1.2.0",
         "stable": "1.2.0"
+      },
+      "owners": [
+        "mlld"
+      ],
+      "maintainers": []
+    },
+    "@mlld/codex": {
+      "name": "codex",
+      "author": "mlld",
+      "about": "Codex CLI invocation with sandboxing, streaming, and web search",
+      "version": "1.0.0",
+      "needs": [],
+      "license": "CC0",
+      "mlldVersion": ">=2.0.5",
+      "source": {
+        "type": "directory",
+        "baseUrl": "https://raw.githubusercontent.com/mlld-lang/modules/4f0df450a9559f7b74716eef0da5f057fe0c0ae0/codex",
+        "files": [
+          "index.mld",
+          "module.yml",
+          "README.md"
+        ],
+        "entryPoint": "index.mld",
+        "contentHash": "d13f87eb25bf4bac6c40e170c93d1ed1b728a63fc4506c65c47a6eef87cccb71",
+        "repository": {
+          "type": "git",
+          "url": "https://github.com/mlld-lang/modules",
+          "commit": "4f0df450a9559f7b74716eef0da5f057fe0c0ae0",
+          "path": "codex"
+        }
+      },
+      "dependencies": {},
+      "keywords": [],
+      "repo": "https://github.com/mlld-lang/modules",
+      "bugs": "https://github.com/mlld-lang/modules/issues",
+      "publishedAt": "2026-04-11T04:06:02.249Z",
+      "publishedBy": 110551,
+      "availableVersions": [
+        "1.0.0"
+      ],
+      "tags": {
+        "latest": "1.0.0",
+        "stable": "1.0.0"
       },
       "owners": [
         "mlld"
