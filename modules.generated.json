@@ -1,6 +1,6 @@
 {
   "version": "2.0",
-  "generated": "2026-04-11T04:18:54.532Z",
+  "generated": "2026-04-18T01:15:22.452Z",
   "modules": {
     "@mlld/ai-cli": {
       "name": "ai-cli",
@@ -616,24 +616,24 @@
       "name": "opencode",
       "author": "mlld",
       "about": "Opencode CLI invocation with session resume, streaming, and MCP tool bridging",
-      "version": "1.0.0",
+      "version": "1.1.0",
       "needs": [],
       "license": "CC0",
       "mlldVersion": ">=2.0.5",
       "source": {
         "type": "directory",
-        "baseUrl": "https://raw.githubusercontent.com/mlld-lang/modules/c1554c667cbae988c2704de71049390ed7327a52/opencode",
+        "baseUrl": "https://raw.githubusercontent.com/mlld-lang/modules/ba268f72646f461cbb63871c21faafc9effcd698/opencode",
         "files": [
           "index.mld",
           "module.yml",
           "README.md"
         ],
         "entryPoint": "index.mld",
-        "contentHash": "8230f0ce638724209d2fc0cce073ab0d7b3f50c80c8aafa6d2ab0bc3ec726a8b",
+        "contentHash": "35fb75410eab4f00f2c31aaae2c1825b5d5b6bfe1ad2fd8d9ef97016ba757988",
         "repository": {
           "type": "git",
           "url": "https://github.com/mlld-lang/modules",
-          "commit": "c1554c667cbae988c2704de71049390ed7327a52",
+          "commit": "ba268f72646f461cbb63871c21faafc9effcd698",
           "path": "opencode"
         }
       },
@@ -641,14 +641,15 @@
       "keywords": [],
       "repo": "https://github.com/mlld-lang/modules",
       "bugs": "https://github.com/mlld-lang/modules/issues",
-      "publishedAt": "2026-04-11T04:18:06.811Z",
+      "publishedAt": "2026-04-18T01:10:49.862Z",
       "publishedBy": 110551,
       "availableVersions": [
+        "1.1.0",
         "1.0.0"
       ],
       "tags": {
-        "latest": "1.0.0",
-        "stable": "1.0.0"
+        "latest": "1.1.0",
+        "stable": "1.1.0"
       },
       "owners": [
         "mlld"
