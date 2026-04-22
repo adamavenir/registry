@@ -1,0 +1,29 @@
+{
+  "version": "1.4.2",
+  "needs": [],
+  "license": "CC0",
+  "mlldVersion": ">=2.0.5",
+  "source": {
+    "type": "directory",
+    "baseUrl": "https://raw.githubusercontent.com/mlld-lang/modules/ae6eea949ee77f3ef14c029fc8d1f34cdf125c1b/opencode",
+    "files": [
+      "index.mld",
+      "module.yml",
+      "README.md"
+    ],
+    "entryPoint": "index.mld",
+    "contentHash": "ffe9d38fdc82887efe3f9b77ac397b5b44de015e6df7b4ff3222e035913ffe38",
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/mlld-lang/modules",
+      "commit": "ae6eea949ee77f3ef14c029fc8d1f34cdf125c1b",
+      "path": "opencode"
+    }
+  },
+  "dependencies": {},
+  "keywords": [],
+  "repo": "https://github.com/mlld-lang/modules",
+  "bugs": "https://github.com/mlld-lang/modules/issues",
+  "publishedAt": "2026-04-22T20:52:28.173Z",
+  "publishedBy": 110551
+}
